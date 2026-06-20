@@ -1,6 +1,6 @@
-# 🏥 Healthcare Conflict Management Hub
+# 🏥 Healthcare Conflict Management Hub 
 
-An interactive, animated, and highly visual Persian educational website created specifically as a companion resource for a university nursing management presentation.
+An interactive, animated, and highly visual Persian educational website created specifically as a companion resource for a university nursing management presentation. 
 
 Instead of a dry slideshow, this project serves as an engaging, colorful content hub designed to make learning about healthcare conflict resolution fun, smooth, and accessible.
 
@@ -10,13 +10,11 @@ Instead of a dry slideshow, this project serves as an engaging, colorful content
 
 * 🎯 **Conflict Management Resource:** Deep-dives into real-world resolution strategies tailored specifically for healthcare environments and nursing staff.
 * 📚 **Interactive Multi-Media Hub:** Packed with practical resources, organized beautifully into sections for educational articles, media, and testing:
-* **مقاله آموزشی (Educational Material):** A complete, multi-page flipbook-style layout for text materials.
-* **اسلایدهای آموزشی (Seminar Slides):** Direct access to presentation slides.
-* **پمفلت آموزشی (Pamphlets):** Quick-reference educational pamphlets.
-* **ویدئو آموزشی (Media Room):** Educational video resources.
-* **نمونه سوالات (Self-Assessment):** Practice and sample questions to test conflict-resolution knowledge.
-
-
+  * **Educational Material (مقاله آموزشی):** A complete, multi-page flipbook-style layout for text materials.
+  * **Seminar Slides (اسلایدهای آموزشی):** Direct access to presentation slides.
+  * **Pamphlets (پمفلت آموزشی):** Quick-reference educational pamphlets.
+  * **Media Room (ویدئو آموزشی):** Educational video resources.
+  * **Self-Assessment (نمونه سوالات):** Practice and sample questions to test conflict-resolution knowledge.
 * 🎨 **Lively & Animated UI:** Packed with colorful illustrations (via unDraw) and smooth scroll animations driven by the **AOS (Animate On Scroll)** library.
 * 🌍 **Native RTL Support:** Full native Persian (Farsi) translation with an optimized Right-to-Left user experience.
 
@@ -30,7 +28,7 @@ Because this was built to be highly portable and easily showcased during a live 
 
 ## 🚀 How to Run Locally
 
-You do not need `npm install`, node runtimes, or local servers.
+You do not need `npm install`, node runtimes, or local servers. 
 
 1. Clone or download this repository.
 2. Double-click the **`index.html`** file in the root directory to open it directly in any modern web browser.
@@ -49,4 +47,3 @@ nursing-management/
     ├── presentation/     # Presentation slides
     └── video/            # Supporting video files
 ```
-
